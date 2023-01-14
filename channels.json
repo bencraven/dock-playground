@@ -1,18 +1,21 @@
 [
     {
-        "id": "codestackr",
+        "id": "1",
+        "channel_name": "codestackr",
         "name": "codeSTACKr",
         "tags": ["web development", "typescript"],
         "description": "My tutorials are generally about web development and include coding languages such as HTML, CSS, Sass, JavaScript, and TypeScript."
     },
     {
-        "id": "jackherrington",
+        "id": "2",
+        "channel_name": "jackherrington",
         "name": "Jack Herrington",
         "tags": ["frontend", "technology"],
         "description": "Frontend videos from basic to very advanced; tutorials, technology deep dives. You'll love it!"
     },
     {
-        "id": "arjancodes",
+        "id": "3",
+        "channel_name": "arjancodes",
         "name": "ArjanCodes",
         "tags": ["software design", "python"],
         "description": "ArjanCodes focuses on helping you become a better software developer."
